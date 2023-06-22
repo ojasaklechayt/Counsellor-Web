@@ -92,7 +92,6 @@ const SignUpForm = () => {
         <h1 className="counsellor">Counsellor</h1>
           <div className="signuptxt">Create a new account</div>
           <div className="signuptxt2">It's quick and easy.</div>
-
           <form className="form-container" onSubmit={handleSubmit}>
             <div className="errorShow"> {error && <p>{error}</p>}</div>
 

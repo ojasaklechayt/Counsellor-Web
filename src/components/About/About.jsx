@@ -7,7 +7,7 @@ const About = () => {
         <div className="about">
             <div className="title"><h1>About Us</h1></div>
             <h3>A platform that helps in counseling students for their college could be a powerful resource for students and counselors alike. Here are some key features that such a platform might offer:</h3>
-            <h4>1. The platform could provide college search tools with filters for location, size, majors, campus culture, and other relevant factors. This would help students find colleges that match their interests, needs, and goals..</h4>
+            <h4>1. Personalized Counseling: The platform could provide college search tools with filters for location, size, majors, campus culture, and other relevant factors. This would help students find colleges that match their interests, needs, and goals..</h4>
             <h4>2. College Search Tools: The platform could offer a range of search tools to help students find colleges that match their interests, needs, and goals. This might include filters for location, size, majors offered, campus culture, and other relevant factors.</h4>
             <h4>3. Career Exploration Resources: The platform could offer resources to help students explore different career paths and identify areas of interest. This might include personality assessments, career assessments, and other tools to help students discover their strengths and passions.</h4>
             <h4>4. College Application Assistance: The platform could offer resources to help students navigate the college application process, including guidance on writing essays, filling out applications, and preparing for interviews. This might include access to sample essays, application checklists, and other helpful tools.</h4>
